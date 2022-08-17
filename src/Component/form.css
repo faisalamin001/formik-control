@@ -1,0 +1,20 @@
+body {
+  background: gray;
+}
+
+form {
+  width: 25%;
+  margin: auto;
+}
+form > h1 {
+  margin-bottom: 30px;
+}
+.input {
+  margin-bottom: 20px;
+  padding: 0px;
+  width: 100%;
+}
+button {
+  margin-top: 20px;
+  width: 100%;
+}
